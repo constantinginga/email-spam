@@ -1,0 +1,4 @@
+# put in your email and password (don't use gmail!), as well as the amount of emails you want to send
+10
+yourEmail@yahoo.com
+yourPassword
